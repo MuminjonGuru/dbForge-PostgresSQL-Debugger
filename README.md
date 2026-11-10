@@ -4,9 +4,7 @@
 
 An end-to-end, reproducible billing demo accompanying my sponsored YouTube walkthrough of [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio/). The repository contains **SQL scripts, a one-million-invoice dataset generator, the intentionally broken calculation, its fix, regression checks, and AI Assistant context files**.
 
-> **Disclosure:** The accompanying video is sponsored by **Devart**. This repository contains a synthetic educational example, not production billing software. No paid endorsement is required to run or review the files.
->
-> **Watch the video:** _Add the YouTube link after publishing._
+> **Watch the video:** 
 
 ## What are we debugging?
 
