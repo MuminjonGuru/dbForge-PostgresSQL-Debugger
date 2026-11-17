@@ -6,7 +6,7 @@ An end-to-end, reproducible billing demo accompanying my sponsored YouTube walkt
 
 > **Watch the video:**
 
-[![Watch on YouTube](https://img.youtube.com/vi/h7OsMC9pWk8/maxresdefault.jpg)](https://www.youtube.com/watch?v=h7OsMC9pWk8)
+[![Watch on YouTube](https://img.youtube.com/vi/-AYXpA-yzZs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-AYXpA-yzZs)
 
 ## What are we debugging?
 
